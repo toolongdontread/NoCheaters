@@ -1,0 +1,66 @@
+// Only 3 files are needed to be included in the zip file.
+// Config, Content and NoCheaters.uproject
+
+----------
+History
+----------
+
+// Please write down what you have edited in this section
+// e.g. 13:14 05/10/2022
+// Peter added buildingXXX, Issac added subtractXXX
+
+Time			| Change					| Editor
+--------------------------------------------------------------
+04/10/2022	 	| Original file created			| Tommy
+--------------------------------------------------------------
+05/10/2022 		| Make clearer label name		| Tommy
+			| Adjust tunnels location		| 
+			| Build a stair in maze			| 
+			| Adjust outer cone angle of		| 
+			| light					|
+			| Add texture to windows		| 
+			| Add point light on the stair  	| 
+--------------------------------------------------------------
+13/10/2022		| Created main menu &	 		| Issac
+			| pause menu UI only, cant function |
+			| yet						| 
+--------------------------------------------------------------
+15/10/2022  	| Set the main menu to start in the	| Tommy
+			| beginning and add the background  |
+			| to the main menu			|
+--------------------------------------------------------------
+26/10/2022		| Create failScreen, finishScreen	| Jacky
+			| and timer					|
+--------------------------------------------------------------
+30/10/2022		| Add trigger box in maze		| Tommy
+			| When player overlap with trigger 	|
+			| box, the light will switch on	|
+			| Adjust timer location			|
+			| Fix a failScreen menu bug		|
+			| Change the bullet scale		|
+--------------------------------------------------------------
+05/11/2022		| Add Speed Run/ Stamina		| Peter
+			| Change "Timer"  to "PlayerHud"	|
+			| Add Point System			|
+--------------------------------------------------------------
+06/11/2022		| Add Ammo Count				| Tommy
+			| Add Ammo Reload				|
+			| Change PlayerHUD color		|
+			| Add score to finish and fail	| Peter
+			| screen					|
+--------------------------------------------------------------
+06/11/2022		| Fixed pause menu bug			| Issac
+			| Found a bug that the timer cannot |
+			| pause when pause game			|
+			|						|
+
+----------
+References
+----------
+
+poor-building-texture-wanchai-district-hong-kong-39744799.jpg:
+https://thumbs.dreamstime.com/b/poor-building-texture-wanchai-district-hong-kong-39744799.jpg
+
+bg.png, fail.png, footbridge.png:
+made by Tommy
+
