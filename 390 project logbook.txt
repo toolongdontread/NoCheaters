@@ -53,7 +53,10 @@ Time			| Change					| Editor
 			| Found a bug that the timer cannot |
 			| pause when pause game			|
 			|						|
-
+--------------------------------------------------------------
+09/11/2022		| Display finish screen if the 	| Tommy
+			| player reaches the highest score	|
+			| Add bgm					|
 ----------
 References
 ----------
