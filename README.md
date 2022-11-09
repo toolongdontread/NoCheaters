@@ -7,6 +7,10 @@ The game is still under development, there may be a lot of bugs.
 1. Epic Games Launcher
 2. Unreal Engine 4.27.2
 
+## Instructions
+1. Destroy all targets before time's up
+2. If your gun is out of bullets, just press 'R' to reload
+
 ## Play the demo
 1. Open the ```.zip``` file
 2. Drag the folder in the ```.zip``` file to desktop
