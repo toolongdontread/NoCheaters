@@ -57,6 +57,11 @@ Time			| Change					| Editor
 09/11/2022		| Display finish screen if the 	| Tommy
 			| player reaches the highest score	|
 			| Add bgm					|
+--------------------------------------------------------------
+12/11/2022    | Add some targets in different | Tommy
+              | places                        |
+              | Change the score required     |
+              | to show the finish screen     |
 ----------
 References
 ----------
